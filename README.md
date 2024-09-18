@@ -93,7 +93,7 @@ pip install dash-html-components
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/pRoMasteR2002/Stock-Price-Prediction.git
+   git clone https://github.com/pRoMasteR2002/HexSoftwares_Project_Stock_Price_Prediction.git
    ```
 
 2. **Access the Application**:
@@ -102,7 +102,7 @@ pip install dash-html-components
 
 ## Repository Link
 
-You can access the GitHub repository here: [Stock Price Prediction GitHub Repository](https://github.com/pRoMasteR2002/Stock-Price-Prediction)
+You can access the GitHub repository here: [Stock Price Prediction GitHub Repository](https://github.com/pRoMasteR2002/HexSoftwares_Project_Stock_Price_Prediction)
 
 ## License
 
